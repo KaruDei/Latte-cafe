@@ -146,7 +146,7 @@
 .menu_block_item_img > img{
 	width: 664px;
 	height: 1037px;
-	object-fit: cover;
+	object-fit: contain;
 }
 
 
